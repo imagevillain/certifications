@@ -30,4 +30,6 @@ $1,100
 
 # advanced
 
-$1,100 [trm advanced crypto investigator](https://www.trmlabs.com/advanced-crypto-investigator)
+$1,100
+
+[trm advanced crypto investigator](https://www.trmlabs.com/advanced-crypto-investigator)
