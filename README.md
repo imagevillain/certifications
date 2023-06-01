@@ -24,11 +24,11 @@ $299
 
 [certified smart contract auditor](https://www.blockchain-council.org/certifications/certified-smart-contract-auditor)
 
-# advanced
-
 $1,100
 
 [trm certified investigator](https://www.trmlabs.com/certified-investigator#demo-request)
+
+# advanced
 
 $1,100
 
