@@ -10,6 +10,8 @@ https://www.youtube.com/@dappuniversity
 
 https://www.youtube.com/@eattheblocks
 
+# certifications
+
 # intermediate
 
 $179
