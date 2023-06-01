@@ -10,18 +10,24 @@ https://www.youtube.com/@dappuniversity
 
 https://www.youtube.com/@eattheblocks
 
-# certifications
+# intermediate
 
-intermediate
+$179
 
-$179 [certified defi expert](https://www.blockchain-council.org/certifications/certified-defi-expert-course)
+[certified defi expert](https://www.blockchain-council.org/certifications/certified-defi-expert-course)
 
-$249 [certified ethereum developer](https://www.blockchain-council.org/certifications/certified-ethereum-developer)
+$249
 
-$299 [certified smart contract auditor](https://www.blockchain-council.org/certifications/certified-smart-contract-auditor)
+[certified ethereum developer](https://www.blockchain-council.org/certifications/certified-ethereum-developer)
 
-$1,100 [trm certified investigator](https://www.trmlabs.com/certified-investigator#demo-request)
+$299
 
-advanced
+[certified smart contract auditor](https://www.blockchain-council.org/certifications/certified-smart-contract-auditor)
+
+$1,100
+
+[trm certified investigator](https://www.trmlabs.com/certified-investigator#demo-request)
+
+# advanced
 
 $1,100 [trm advanced crypto investigator](https://www.trmlabs.com/advanced-crypto-investigator)
