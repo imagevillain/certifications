@@ -6,9 +6,9 @@ free
 
 noteable channels
 
-https://www.youtube.com/@EatTheBlocks
+https://www.youtube.com/@DappUniversity
 
-https://www.youtube.com/@DappUniversity/
+https://www.youtube.com/@EatTheBlocks
 
 # intermediate
 
