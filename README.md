@@ -12,7 +12,7 @@ https://www.youtube.com/@eattheblocks
 
 # certifications
 
-# intermediate
+intermediate
 
 $179
 
@@ -30,7 +30,7 @@ $1,100
 
 [trm certified investigator](https://www.trmlabs.com/certified-investigator#demo-request)
 
-# advanced
+advanced
 
 $1,100
 
