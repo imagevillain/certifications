@@ -4,7 +4,7 @@ free
 
 [blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
 
-noteable channels
+noteable channels with hours of good content:
 
 https://www.youtube.com/@DappUniversity
 
