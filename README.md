@@ -4,6 +4,12 @@ free
 
 [blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
 
+noteable channels
+
+https://www.youtube.com/@EatTheBlocks
+
+https://www.youtube.com/@DappUniversity/
+
 # intermediate
 
 $179
