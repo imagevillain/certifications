@@ -2,11 +2,11 @@
 
 free
 
+[blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
+
 https://www.youtube.com/@dappuniversity
 
 https://www.youtube.com/@eattheblocks
-
-[blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
 
 # intermediate
 
