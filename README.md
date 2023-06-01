@@ -1,6 +1,6 @@
 # basic
 
-FREE
+free
 
 [blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
 
