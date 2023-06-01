@@ -1,5 +1,8 @@
 # basic
 
+FREE
+
+[Blockchain Investigations 101: An Intro to Ethereum](https://youtu.be/mBW7djo_fg8)
 
 # intermediate
 
