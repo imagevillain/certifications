@@ -4,10 +4,6 @@ free
 
 [blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
 
-https://www.youtube.com/@dappuniversity
-
-https://www.youtube.com/@eattheblocks
-
 # intermediate
 
 $179
@@ -31,3 +27,9 @@ $1,100
 $1,100
 
 [trm advanced crypto investigator](https://www.trmlabs.com/advanced-crypto-investigator)
+
+# noteable youtubers
+
+https://www.youtube.com/@dappuniversity
+
+https://www.youtube.com/@eattheblocks
