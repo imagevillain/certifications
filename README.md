@@ -26,7 +26,7 @@ $1,100
 
 [trm advanced crypto investigator](https://www.trmlabs.com/advanced-crypto-investigator)
 
-# noteable youtubers
+# youtube
 
 https://www.youtube.com/@dappuniversity
 
