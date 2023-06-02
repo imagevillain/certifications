@@ -1,6 +1,6 @@
 # basic
 
-this is a great starting point, it's free but doesn't provide a cerfication
+this is a great starting point before going for any certification
 
 [blockchain investigations 101: an intro to ethereum](https://youtu.be/mBW7djo_fg8)
 
